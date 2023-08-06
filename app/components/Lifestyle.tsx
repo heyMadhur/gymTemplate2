@@ -11,8 +11,8 @@ function Lifestyle() {
             </p>
             <div className="relative w-full xs:w-[80%] sm:w-[60%] md:w-[50%] lg:w-[40%] flex justify-center ">
                 <Image 
-                    src="/images/hero6.jpg"
-                    // src="/images/lifestyle-image.png"
+                    // src="/images/heroSection/hero17.jpg"
+                    src="/images/findYourFit/lifestyle-image.png"
                     alt="lifestyle image"
                     width={500}
                     height={400}

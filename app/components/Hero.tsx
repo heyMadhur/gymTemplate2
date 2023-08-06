@@ -11,8 +11,8 @@ function Hero() {
   return (
     <div className="relative w-full">
       <Image
-        // src="/images/heroSection/hero.png"
-        src="/images/heroSection/hero16.jpg"
+        src="/images/heroSection/hero.png"
+        // src="/images/heroSection/hero16.jpg"
         alt="hero background image"
         width={2000}
         height={1900}
@@ -27,8 +27,8 @@ function Hero() {
           >
             <span
               className="text-transparent"
-              style={{ WebkitTextStroke: "2px #f7260f" }}
-            //   style={{ WebkitTextStroke: "2px #FF4601" }}
+              // style={{ WebkitTextStroke: "2px #f7260f" }}
+              style={{ WebkitTextStroke: "2px #FF4601" }}
             >
               Fitness
             </span>{" "}
